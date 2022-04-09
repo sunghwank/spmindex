@@ -2,9 +2,9 @@
 
 ## Description
 
-A C++ implementation of a compact data structure for structural pattern matching describe in the following paper: 
+A C++ implementation of a compact data structure for structural pattern matching described in the following paper: 
 
-**Sung-Hwan Kim and Hwan-Gue Cho, "Practical Space-Efficient Index for Structural Pattern Matching," in Proc. IWOCA, 2022.**
+**Sung-Hwan Kim and Hwan-Gue Cho, "Practical Space-Efficient Index for Structural Pattern Matching," to appear at IWOCA 2022.**
 
 
 ## Compile and run
@@ -19,4 +19,4 @@ $ ./count-test                           # pattern matching test module.
 </code>
 </pre>
 
-You may have to specify SDSL_INCLUDE and SDSL_LIB in Makefile.
+If failed to compile, you may have to specify SDSL_INCLUDE and SDSL_LIB in Makefile.
