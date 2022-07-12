@@ -4,7 +4,7 @@
 
 A C++ implementation of a compact data structure for structural pattern matching described in the following paper: 
 
-**Sung-Hwan Kim and Hwan-Gue Cho, "Practical Space-Efficient Index for Structural Pattern Matching," to appear at IWOCA 2022.**
+**Sung-Hwan Kim and Hwan-Gue Cho, "Practical Space-Efficient Index for Structural Pattern Matching," in Proceedings of the 33rd International Workshop on Combinatorial Algrorithms (IWOCA), pp.369-382, 2022.**
 
 
 ## Compile and run
